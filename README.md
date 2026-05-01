@@ -52,7 +52,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Otimização de semáforos em tempo real para redução de congestionamentos com um fluxograma que representa a lógica da solução. | [Ver Projeto](./auditoria-de-vendas/) |
+| **Engenharia de Soluções Lógicas** | Otimização de semáforos em tempo real para redução de congestionamentos com um fluxograma que representa a lógica da solução. | [Ver Projeto](./semaforo-inteligente/) |
 
  
 #### 🤖 Inteligência Artificial
