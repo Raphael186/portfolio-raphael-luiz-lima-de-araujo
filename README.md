@@ -48,6 +48,12 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./auditoria-de-vendas/) |
+
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Soluções Lógicas** | Otimização de semáforos em tempo real para redução de congestionamentos com um fluxograma que representa a lógica da solução. | [Ver Projeto](./auditoria-de-vendas/) |
+
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
