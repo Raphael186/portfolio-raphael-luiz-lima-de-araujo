@@ -38,4 +38,4 @@ O algoritmo funciona em três etapas de decisão principais:
 3. Confira os resultados lógicos no ficheiro `PSEUDOCODIGO01.pdf`.
 
 ---
-[Voltar ao início](https://github.com/portfolio-raphael-luiz-lima-de-araujo)
+[Voltar ao início](https://github.com/semaforo-inteligente)
