@@ -35,5 +35,5 @@ O algoritmo funciona em três etapas de decisão principais:
    ```bash
    python auditoria-de-dados.py
    
-   ---
+ ---
 [Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
