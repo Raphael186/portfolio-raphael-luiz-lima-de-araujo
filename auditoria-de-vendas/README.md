@@ -21,7 +21,7 @@ O algoritmo funciona em três etapas de decisão principais:
 
 ## Ficheiros do Projeto
 
-* `auditoria.py`: Código-fonte principal que contém a função de análise e o fluxo de entrada de dados.
+* `auditoria-de-dados.py`: Código-fonte principal que contém a função de análise e o fluxo de entrada de dados.
 
 ## Resultados e Aprendizados
 
@@ -33,4 +33,4 @@ O algoritmo funciona em três etapas de decisão principais:
 1. Certifique-se de que tem o Python instalado no seu computador.
 2. Abra o terminal ou o seu ambiente de desenvolvimento e execute o ficheiro principal:
    ```bash
-   python auditoria.py
+   python auditoria-de-dados.py
