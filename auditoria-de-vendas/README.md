@@ -34,5 +34,6 @@ O algoritmo funciona em três etapas de decisão principais:
 2. Abra o terminal ou o seu ambiente de desenvolvimento e execute o ficheiro principal:
    ```bash
    python auditoria-de-dados.py
+   
    ---
 [Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
