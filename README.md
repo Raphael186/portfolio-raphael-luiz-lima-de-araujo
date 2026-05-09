@@ -48,10 +48,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./sistema-de-auditoria-de-dados/) |
-| Projeto | Descrição | Link |
 | **Engenharia de Soluções Lógicas** | Otimização de semáforos em tempo real para redução de congestionamentos com um fluxograma que representa a lógica da solução. | [Ver Projeto](./semaforo-inteligente/) |
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Sistema de Caixa e Troco Inteligente** | Um programa para utomatizar o processo de conferência de pagamentos e a devolução otimizada de valores ao cliente, garantindo que o troco seja entregue com o menor número possível de cédulas. | [Ver Projeto](./semaforo-inteligente/) |
 
  
