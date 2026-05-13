@@ -52,6 +52,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Sistema de Caixa e Troco Inteligente** | Um programa para utomatizar o processo de conferência de pagamentos e a devolução otimizada de valores ao cliente, garantindo que o troco seja entregue com o menor número possível de cédulas. | [Ver Projeto](./sistema-de-caixa-e-troco-inteligente/) |
 | **Traduzindo Lógica para Python** | Este repositório contém a implementação em Python de quatro funções complexas originalmente descritas em pseudocódigo. O projeto foi desenvolvido para exercitar a conversão de lógica estruturada para código executável, focando no uso correto de tipagem dinâmica, estruturas de repetição e controle de fluxo condicional | [Ver Projeto](./traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) | 
+| **Desenhando Emojis com Dados** | Manipulando listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) | 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
