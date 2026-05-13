@@ -38,4 +38,4 @@ O sistema foi dividido em quatro módulos principais, cada um focado em uma lóg
 3. [cite_start]Execute a célula de código e siga as instruções no terminal para introduzir os dados solicitados por cada função[cite: 8].
 
 ---
-[Voltar ao início](#traduzindo-logica-para-python)
+[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
