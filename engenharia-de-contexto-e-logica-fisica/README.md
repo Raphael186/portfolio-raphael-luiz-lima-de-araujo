@@ -33,5 +33,5 @@ O sistema está dividido em dois módulos principais contidos no mesmo ficheiro:
 2. Carregue o ficheiro `atividade_desenvolvida.py`.
 3. Execute o script para visualizar no terminal o relatório completo de conforto urbano e, em seguida, o log passo a passo do simulador de evacuação.
 
----
-[Voltar ao início](#algoritmos-de-análise-urbana-e-navegação-espacial)
+ ---
+[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
