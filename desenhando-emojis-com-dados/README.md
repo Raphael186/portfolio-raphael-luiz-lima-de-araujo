@@ -33,5 +33,5 @@ O sistema foi dividido em três desafios principais contidos no mesmo arquivo:
 2. Certifique-se de ter a biblioteca Matplotlib instalada no seu ambiente (`pip install matplotlib`).
 3. Execute o script. O terminal exibirá as estruturas de dados atualizadas e abrirá a visualização gráfica dos emojis processados em tela.
 
----
-[Voltar ao início](#processamento-de-imagens-e-manipulação-de-matrizes-em-python)
+ ---
+[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
