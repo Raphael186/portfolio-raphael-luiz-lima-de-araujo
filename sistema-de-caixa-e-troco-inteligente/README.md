@@ -34,4 +34,4 @@ Ao processar uma venda conforme a documentação:
 * Caso o pagamento seja superior, o sistema calcula a diferença (Troco = Pago - Total) e exibe o resultado final.
 
 ---
-[Voltar ao início](#sistema-de-caixa-e-troco-inteligente)
+[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
