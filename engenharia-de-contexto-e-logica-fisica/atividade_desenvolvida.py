@@ -322,3 +322,10 @@ def simulador_evacuacao_real():
 # Execução
 
 simulador_evacuacao_real()
+
+### PARTE 3: Reflexão Crítica
+Parágrafo 1: Durante o mapeamento físico da minha casa, percebi que eu faço as coisas muito no automático. Sair do meu quarto, passar pela sala e ir até a rua é algo que eu faço sem nem pensar. Mas quando precisei passar esse trajeto para o algoritmo, vi que o computador é "cego" e precisa de tudo muito bem mastigado. Ele não sabe desviar das coisas ou lembrar de pegar a chave da garagem se eu não avisar linha por linha. Tive que mapear o passo a passo exato para a máquina entender o que era tão óbvio para mim.
+
+Parágrafo 2: Ao tentar transformar portas e corredores em variáveis lógicas, o maior desafio foi prever o que fazer quando as coisas dão errado. Na vida real, se o portão está trancado, eu simplesmente dou meia volta, vou até a sala, pego a chave e tento de novo. No código, eu suei um pouco para montar os "ifs" e o loop "while" de um jeito que ensinasse o programa a reconhecer esse bloqueio, voltar na lista de cômodos e tentar de novo sem "bugar". Foi aí que eu entendi que programar não é só fazer o caminho dar certo, mas sim criar regras para quando ele dá errado.
+
+Parágrafo 3: Isso me fez refletir que, no meu dia a dia, aprender a programar me ajuda a organizar melhor as ideias e a resolver as coisas por etapas. É uma lógica bem parecida com a que eu uso para treinar na academia, por exemplo: a gente não chega lá e levanta todo o peso de uma vez. Tem que dividir o treino, contar as séries certinhas, focar na repetição e dar o tempo de descanso, bem parecido com a lógica dos laços de repetição no código. A programação está me ensinando que problemas complexos ficam bem mais fáceis de resolver quando a gente divide tudo em pedaços menores e resolve um passo de cada vez.
