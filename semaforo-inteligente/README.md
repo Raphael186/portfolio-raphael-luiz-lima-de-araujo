@@ -25,6 +25,7 @@ O algoritmo funciona em três etapas de decisão principais:
 * `PSEUDOCODIGO00.pdf`: Estrutura de variáveis e lógica condicional inicial.
 * `PSEUDOCODIGO01.pdf`: Finalização do algoritmo e impressão dos resultados.
 * `FLUXOGRAMA-SEMAFORO.pdf`: Representação visual do fluxo de execução do semáforo.
+* `Questões_de_fechamento.pdf`: Documento com a análise crítica e respostas sobre a experiência de desenvolvimento.
 
 ## Resultados e Aprendizados
 
