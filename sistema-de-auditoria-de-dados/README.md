@@ -1,39 +1,47 @@
-# Sistema de Auditoria de Dados
+# O Algoritmo de Auditoria de Dados
 
 ## Descrição do Projeto
 
-Este projeto consiste num algoritmo de auditoria desenvolvido para analisar e monitorizar transações comerciais. O sistema processa valores de vendas, calcula a média de desempenho e aplica regras de segurança para identificar anomalias ou discrepâncias que exijam revisão manual.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica para exercitar a lógica de programação voltada à auditoria de sistemas financeiros e gestão de recursos. O algoritmo processa fluxos de vendas, identifica padrões de dados e aplica critérios de segurança para validar a integridade das operações corporativas.
 
-O objetivo principal é garantir o controlo financeiro e a conformidade, alertando a equipa de auditoria sempre que a média das vendas ultrapassa o limite de segurança estabelecido.
+Além do código funcional, este repositório documenta uma análise crítica sobre tratamento de dados, segurança da informação e a experiência de depuração (debugging) no ambiente Python.
 
-## Tecnologias e Lógica Utilizada
+## Tecnologias e Conceitos Aplicados
 
 * **Linguagem:** Python 3.10
-* **Conceitos Aplicados:** Estruturas de decisão (if/else), funções, manipulação de variáveis globais (global) e conversão de tipos de dados (casting).
+* **Ambiente:** Google Colab / VS Code
+* **Conceitos de Auditoria:**
+  * [cite_start]**Identificação de Discrepâncias:** Diferença entre valores teóricos (estoque) e reais (prateleira)[cite: 40].
+  * [cite_start]**Análise de Outliers:** Identificação de dados "estranhos" ou fora do padrão em um sistema[cite: 41].
+  * [cite_start]**Normalização de Dados:** Padronização de informações para evitar erros de processamento e resultados inesperados[cite: 42].
+  * [cite_start]**Margem de Tolerância:** Gestão de limites operacionais ou "teto de gastos" pelo auditor[cite: 43].
 
-## Estrutura e Funcionamento do Sistema
+## Análise de Compreensão e Metacognição
 
-O algoritmo funciona em três etapas de decisão principais:
+Como parte do desenvolvimento, foram realizados testes de estresse e reflexões sobre a arquitetura do software:
 
-1. **Cálculo da Média e Validação:** Apresenta os tipos de dados e calcula a média das três vendas introduzidas.
-2. **Verificação de Segurança:** Compara a média com o limite de segurança configurado e permite a atualização do limite em tempo real, caso necessário.
-3. **Revisão Manual:** Avalia individualmente se alguma das vendas é cinco vezes superior à média, sugerindo uma auditoria rigorosa.
+### 1. Teste de Estresse (Análise de Mesa)
+[cite_start]Durante os testes com os valores (Venda 1: 100, Venda 2: 200, Venda 3: 5000), a média resultante foi de **1.766,66**[cite: 45]. [cite_start]Embora o valor 5000 fosse consideravelmente alto, o código processou a informação conforme a lógica programada, demonstrando a importância de configurar alertas específicos para valores discrepantes[cite: 45].
 
-## Ficheiros do Projeto
+### 2. Segurança e Aplicação Real
+[cite_start]Foi identificada uma vulnerabilidade crítica no uso de **variáveis globais** para limites de segurança em contextos bancários[cite: 46]. [cite_start]Em um cenário real, o uso de variáveis não protegidas permitiria que usuários sem autorização (como outros funcionários além do gerente) alterassem limites de segurança sem que o sistema detectasse a infração[cite: 46].
 
-* `auditoria-de-dados.py`: Código-fonte principal que contém a função de análise e o fluxo de entrada de dados.
+### 3. Experiência de Desenvolvimento (Debugging)
+O processo de elaboração enfrentou desafios técnicos comuns em Python, como:
+* [cite_start]**NameError:** Erro na variável `LIMITE_SEGURANCA` devido à presença de espaços e uso de maiúsculas, o que fez o interpretador ler apenas o termo "LIMITE"[cite: 47].
+* [cite_start]**Indentação:** Erros de espaçamento nas variáveis de venda e na definição da função `analisar_vendas`[cite: 48].
+* [cite_start]**Solução:** A otimização foi realizada através da análise das mensagens de erro do Python e suporte de ferramentas de IA integradas para refinamento do código[cite: 48].
 
-## Resultados e Aprendizados
+## Estrutura do Repositório
 
-* O sistema permite um controlo dinâmico dos limites de segurança da empresa.
-* **Otimização de Auditoria:** Identificação automática de transações fora do padrão, reduzindo o esforço de verificação manual.
+* `sistema_de_auditoria.py`: Código-fonte principal com a lógica de cálculo e validação.
+* [cite_start]`Análise_Metacognição.pdf`: Documento detalhado com as respostas teóricas e testes de mesa realizados[cite: 39].
 
-## Como Executar a Lógica
+## Como Executar
 
-1. Certifique-se de que tem o Python instalado no seu computador.
-2. Abra o terminal ou o seu ambiente de desenvolvimento e execute o ficheiro principal:
-   ```bash
-   python auditoria-de-dados.py
-   
- ---
-[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
+1. Clone este repositório.
+2. Certifique-se de ter o Python instalado.
+3. Execute o script principal para visualizar o processamento das vendas e o relatório de auditoria.
+
+---
+[Voltar ao início](#o-algoritmo-de-auditoria-de-dados)
