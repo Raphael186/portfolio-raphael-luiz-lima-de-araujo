@@ -123,3 +123,7 @@ def simulador_poupanca():
    print("Parabéns! Você atingiu a meta de 10k no mês ", m)
 
  print("Resultado final após ", meses, " meses: R$", saldo)
+
+# QUESTÕES
+Sobre Tipagem: O input sempre retorna uma string, Se esquecer de usar float ou int, as operações matemáticas não funcionam corretamente.
+Sobre range:  No pseudocódigo, o laço PARA i DE 1 ATE n inclui o valor final n. No Python, o range não inclui o último número,
