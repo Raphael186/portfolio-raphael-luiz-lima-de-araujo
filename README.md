@@ -53,6 +53,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Traduzindo Lógica para Python** | Este repositório contém a implementação em Python de quatro funções complexas originalmente descritas em pseudocódigo. O projeto foi desenvolvido para exercitar a conversão de lógica estruturada para código executável, focando no uso correto de tipagem dinâmica, estruturas de repetição e controle de fluxo condicional | [Ver Projeto](./traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) | 
 | **Desenhando Emojis com Dados** | Manipulando listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) | 
+| **Sistema de Auditoria de Recursos Corporativos** | Sistema que calcula o financeamento de diferentes setores de uma empresa. | [Ver Projeto](./sistema-de-auditoria-de-recursos-corporativos/) |
+
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
