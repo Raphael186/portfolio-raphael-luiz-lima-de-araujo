@@ -35,7 +35,7 @@ O processo de elaboração enfrentou desafios técnicos comuns em Python, como:
 ## Estrutura do Repositório
 
 * `sistema_de_auditoria.py`: Código-fonte principal com a lógica de cálculo e validação.
-* [cite_start]`Análise_Metacognição.pdf`: Documento detalhado com as respostas teóricas e testes de mesa realizados[cite: 39].
+* `Análise_Metacognição.pdf`: Documento detalhado com as respostas teóricas e testes de mesa realizados[cite: 39].
 
 ## Como Executar
 
