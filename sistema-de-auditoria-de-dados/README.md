@@ -44,4 +44,4 @@ O processo de elaboração enfrentou desafios técnicos comuns em Python, como:
 3. Execute o script principal para visualizar o processamento das vendas e o relatório de auditoria.
 
 ---
-[Voltar ao início](#o-algoritmo-de-auditoria-de-dados)
+[Voltar ao início](https://github.com/Raphael186/portfolio-raphael-luiz-lima-de-araujo)
